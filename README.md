@@ -1,0 +1,1 @@
+A small tool to help learn the structures and one-letter codes for the 20 standard proteinogenic amino acids.
